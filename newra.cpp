@@ -8,4 +8,5 @@ int main()
     cout << endl;
     cout << "changed";
   cout<<"yes";
+    court<<"NO";
 }
