@@ -4,6 +4,8 @@ int main()
 {
     cout << "hrasdasd";
     cout << endl;
-    cout << "can u hear me?";
-    cout<<"no I am not hearing u"
+
+    cout << "can u hear me";
+    cout << "i can perfectly hear u";
 }
+
