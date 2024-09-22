@@ -8,6 +8,6 @@ int main()
     cout << endl;
     cout << "changed";
   cout<<"yes";
-    cout<<"how are u doing";
+
     
 }
